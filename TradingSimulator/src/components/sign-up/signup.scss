@@ -1,0 +1,13 @@
+.signin {
+  &__check {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  &__redirect {
+    color: white;
+    span {
+      color: #5367fe;
+    }
+  }
+}
